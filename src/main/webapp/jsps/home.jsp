@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Demo- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
@@ -30,13 +30,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
 <hr>
 <div style="text-align: center;">
-	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
-	</span>
+	
 	<span style="font-weight: bold;">
 		welcome
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Murali</a>
+		<a href="mailto:murali143love@gmail.com">Mail to Murali</a>
 	</span>
 </div>
 <hr>
